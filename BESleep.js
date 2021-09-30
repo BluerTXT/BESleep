@@ -5,7 +5,6 @@
 //██╔══██╗██╔══╝░░░╚═══██╗██║░░░░░██╔══╝░░██╔══╝░░██╔═══╝░
 //██████╦╝███████╗██████╔╝███████╗███████╗███████╗██║░░░░░
 //╚═════╝░╚══════╝╚═════╝░╚══════╝╚══════╝╚══════╝╚═╝░░░░░
-//This plugin was created for the BeEarth server, but you can use it
 let online = 0 //online players
 let sleepingpl = [] //Sleeping players
 let percentage = 50 //% sleeping players(сustomize it to your liking) (Yes, the config is not in json)
